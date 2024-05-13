@@ -1,7 +1,0 @@
-hello world 
-
-<<<<<<< HEAD
-how are you?
-i am good thanks 
-=======
->>>>>>> parent of 931db08 (third commit)
